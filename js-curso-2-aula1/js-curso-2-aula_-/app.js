@@ -9,7 +9,7 @@ Esse codigo de cima foi sustituido pelo codigo abaixo por ser mais pratico
 */
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
